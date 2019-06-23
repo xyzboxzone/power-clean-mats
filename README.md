@@ -10,7 +10,7 @@ MatA.002
 MatB.003
 MatB.004
 
-All Object that use MatA.xxx or MatB.xxx will switch to MatA or MatB automaticly
+All Object that use MatA.xxx or MatB.xxx will switch to MatA or MatB automatically
 ![alt text](https://github.com/xyzboxzone/power-clean-mats/blob/master/power01.jpg)
 
 
