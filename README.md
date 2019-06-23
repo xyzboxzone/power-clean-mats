@@ -14,7 +14,7 @@ All Object that use MatA.xxx or MatB.xxx will switch to MatA or MatB automaticly
 ![alt text](https://github.com/xyzboxzone/power-clean-mats/blob/master/power01.jpg)
 
 
-Be sure that materials are dulpicate name.
+Be sure that materials are duplicate name.
 
 How to Install:
 
