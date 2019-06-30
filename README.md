@@ -12,6 +12,10 @@ MatB.004
 
 All Object that use MatA.xxx or MatB.xxx will switch to MatA or MatB automatically
 ![alt text](https://github.com/xyzboxzone/power-clean-mats/blob/master/power01.jpg)
+![alt text](https://github.com/xyzboxzone/power-clean-mats/blob/master/power02.jpg)
+![alt text](https://github.com/xyzboxzone/power-clean-mats/blob/master/power03.jpg)
+![alt text](https://github.com/xyzboxzone/power-clean-mats/blob/master/power04.jpg)
+
 
 
 Be sure that materials are duplicate name.
