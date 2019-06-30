@@ -18,7 +18,7 @@ Be sure that materials are duplicate name.
 
 How to Install:
 
-Download File (Save Link As) : PowerCleanMats28.py
+Download File : PowerCleanMats28.py
 
 Install it at Blender Add-ons Menu
  
