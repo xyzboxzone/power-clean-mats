@@ -20,9 +20,6 @@ All Object that use MatA.xxx or MatB.xxx will switch to MatA or MatB automatical
 
 Be sure that materials are duplicate name.
 
-How to Install:
-
-Download File : PowerCleanMats28.py
 
 Install it at Blender Add-ons Menu
  
